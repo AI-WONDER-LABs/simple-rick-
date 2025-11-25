@@ -1,6 +1,6 @@
-# PROJECT STRUCTURE
+# Simple Rick AI
 
-```simple-rick/
+```
 ├── android/                        # Native Android code
 │   ├── app/src/main/java/          # Kotlin/Java source files
 │   ├── app/src/main/res/           # XML layouts, drawable resources
