@@ -19,6 +19,7 @@
 ├── .gitignore                      # Git ignore rules
 └── ...other config files...
 
+```
 # Native Android Overlay Setup
 
 ⚠️ **IMPORTANT**: This folder contains reference files for native Android overlay functionality. These files **CANNOT** be used directly in Expo managed workflow.
@@ -30,7 +31,7 @@
 npx expo prebuild
 # or
 npx expo eject
-```
+
 
 ### 2. Add Native Files
 Copy files from this folder to:
