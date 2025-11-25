@@ -1,29 +1,3 @@
-#FILE STRUCTURE SIMPLE RICK AI
-
-
-|--simple-rick-/
-├── App.js                  # Main app entry point
-├── app.json                # Expo configuration
-├── package.json            # Project dependencies
-├── node_modules/           # Installed packages (auto-generated)
-├── assets/                 # Images, fonts, audio, etc.
-│   ├── placeholder.png     # Example placeholder
-│   └── ...                 # Replace with your real assets
-├── components/             # Reusable UI components
-│   ├── Header.js           # Example placeholder component
-│   ├── Button.js           # Example placeholder component
-│   └── ...                 # Replace with your real components
-├── screens/                # App screens/pages
-│   ├── HomeScreen.js       # Placeholder
-│   ├── SettingsScreen.js   # Placeholder
-│   └── ...                 # Replace with real screens
-├── navigation/             # React Navigation setup
-│   └── AppNavigator.js     # Placeholder or your navigation logic
-├── utils/                  # Helper functions
-│   └── helpers.js          # Placeholder utilities
-├── android/                # Native Android folder (placeholder)
-├── ios/                    # Native iOS folder (placeholder)
-└── .gitignore              # Ignore node_modules, build files, etc.--|
 
 # Native Android Overlay Setup
 
