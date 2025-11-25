@@ -1,4 +1,6 @@
-# Native Android Overlay Setup
+#FILE STRUCTURE SIMPLE RICK AI
+
+
 |--simple-rick-/
 ├── App.js                  # Main app entry point
 ├── app.json                # Expo configuration
@@ -22,6 +24,8 @@
 ├── android/                # Native Android folder (placeholder)
 ├── ios/                    # Native iOS folder (placeholder)
 └── .gitignore              # Ignore node_modules, build files, etc.--|
+
+# Native Android Overlay Setup
 
 ⚠️ **IMPORTANT**: This folder contains reference files for native Android overlay functionality. These files **CANNOT** be used directly in Expo managed workflow.
 
