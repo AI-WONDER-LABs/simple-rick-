@@ -1,17 +1,1 @@
-├── android/                        # Native Android code
-│   ├── app/src/main/java/          # Kotlin/Java source files
-│   ├── app/src/main/res/           # XML layouts, drawable resources
-│   └── app/src/main/AndroidManifest.xml
-├── src/                            # JS/TS source files (React Native/Expo)
-│   ├── components/
-│   ├── screens/
-│   ├── navigation/
-│   └── helpers/
-├── assets/                         # Fonts, images, etc.
-│   ├── fonts/
-│   ├── images/
-├── package.json                    # JS/TS project config
-├── README.md                       # Project overview and docs
-├── babel.config.js                 # Babel config for JS/TS
-├── .gitignore                      # Git ignore rules
-└── ...other config files...
+
